@@ -20,6 +20,7 @@ namespace CDS_API
                 {
                     Console.WriteLine("CEP: " + cidade.cep);
                     Console.WriteLine("Cidade: " + cidade.localidade);
+                    Console.WriteLine("Estado: " + cidade.uf);
                 }
                 else
                 {
